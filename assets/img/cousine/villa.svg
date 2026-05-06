@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Villa placeholder">
+  <rect width="1200" height="800" fill="#dceff1"/>
+  <rect y="480" width="1200" height="320" fill="#f4e8d6"/>
+  <rect x="220" y="320" width="760" height="260" rx="12" fill="#fff"/>
+  <polygon points="180,340 600,120 1020,340" fill="#2e4f5d"/>
+  <rect x="330" y="390" width="180" height="150" fill="#8ac6d0"/>
+  <rect x="560" y="390" width="180" height="150" fill="#8ac6d0"/>
+  <rect x="790" y="390" width="120" height="190" fill="#9d7c5a"/>
+</svg>
